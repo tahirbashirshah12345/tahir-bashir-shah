@@ -1,61 +1,62 @@
-# 👋 Hi, I’m Tahir Bashir Shah
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/tahirbashirshah12345/tahirbashirshah12345/assets/your-banner.png" alt="Frontend Developer Banner" width="100%" />
+</p>
 
-I'm a passionate developer with a strong foundation in web development and problem-solving. I enjoy building clean, efficient, and user-centered applications using technologies like **JavaScript, HTML, CSS, PHP, and Python**, and I have experience working with REST APIs and machine learning concepts. I’m currently focused on growing my backend and full-stack development skills and am actively exploring open-source contributions.
+<h1 align="center">Hi 👋, I'm Tahir Shah</h1>
+<h3 align="center">Frontend Developer | React Enthusiast | DSA Learner</h3>
 
----
-
-## 🚀 Projects
-
-### 📍 Weather App
-A clean and responsive weather web application built using **HTML, CSS, and JavaScript** with data fetched from the **OpenWeatherMap API**. The UI updates based on user input and shows real-time temperature, humidity, wind speed, and weather conditions.
-
-> **Tech Stack**: HTML, CSS, JavaScript, REST API  
-> **Features**: Real-time API call, clean UI, responsive design  
-(https://tahirbashirshah12345.github.io/weather-forecasting-app/
-)
-
----
-
-### 📍 YouTube Comment Sentiment Analysis
-A machine learning-based project that analyzes the sentiment of YouTube video comments using Python. It scrapes comments, cleans text, and predicts positive/negative sentiments using NLP.
-
-> **Tech Stack**: Python, Pandas, scikit-learn, NLP, YouTube API  
-> **Features**: Data preprocessing, sentiment labeling, visualization  
-> **Link**: tahirbashirshah12345/comment-anlaysis-in-youtube
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+</p>
 
 ---
 
-### 📍 Paste App (Pastebin Clone)
-A full-stack app where users can paste and share snippets of text. Focuses on security, URL-based access, and clean UI.
+## 🌟 About Me
 
-> **Tech Stack**: HTML, CSS, JavaScript, Firebase (or Node.js backend)  
-> **Features**: Text input, unique shareable URLs, persistence  
-> **Link**:tahirbashirshah12345/paste-application
-
----
-
-## 💡 Skills
-
-- **Languages**: PHP, JavaScript, HTML5, CSS3, Python, SQL  
-- **Frameworks**: WordPress (beginner), Bootstrap  
-- **Tools**: Git, GitHub, VS Code, Postman  
-- **Database**: MySQL  
-- **Soft Skills**: Problem-solving, time management, documentation, teamwork
+- 💻 Front-End Developer focused on **building sleek, responsive UI/UX**
+- ⚛️ Specialized in **React.js** with solid command of **JavaScript** & **ES6+**
+- 🧠 Strong foundation in **DSA** and core subjects like **DBMS, CN, OS**
+- 🔄 Familiar with **API integration**, **Git/GitHub**, and **modern design trends**
+- 📫 Reach me at: [tahirbashirshah12345@gmail.com](mailto:tahirbashirshah12345@gmail.com)
 
 ---
 
-## 📌 Why rtCamp?
+## 🧰 My Tech Toolbox
 
-I am excited by rtCamp’s commitment to open source and high-quality engineering. I’m particularly interested in contributing to enterprise-scale WordPress solutions and plugin development. With a strong foundation in web technologies and a deep interest in building scalable and maintainable solutions, I’m eager to grow and contribute as a developer in your team.
-
----
-
-## 📫 Connect with Me
-
-- **GitHub**: [github.com/tahirbashirshah12345](https://github.com/tahirbashirshah12345)
-- **Email**: tahirbashirshah12345@gmail.com  
-- **Location**: India (open to remote work)
+| Frontend        | Tools & Versioning   | CS Fundamentals     |
+|-----------------|----------------------|----------------------|
+| HTML, CSS, JS   | Git, GitHub, VS Code | DBMS, OS, CN         |
+| React.js        | Chrome DevTools      | DSA, OOP Concepts    |
+| Responsive Design | Postman, REST APIs | Computer Architecture |
 
 ---
 
-> ⚡ "Good Work. Good People." aligns with my values — delivering clean code, learning fast, and collaborating openly.
+## 💼 Featured Projects
+
+- 🔗 [Weather Forecast App](https://github.com/tahirbashirshah12345/weather-forecasting-app) – React-based live weather dashboard
+- 🔗 [YouTube Comment Analysis](https://github.com/tahirbashirshah12345) – NLP + Frontend UI for comment sentiment
+- 🔗 [Paste App](https://github.com/tahirbashirshah12345) – Minimal pastebin clone with styled frontend
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahirbashirshah12345&show_icons=true&theme=react&hide_title=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tahirbashirshah12345&theme=react" width="48%" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tahirbashirshah12345/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:tahirbashirshah12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+</p>
