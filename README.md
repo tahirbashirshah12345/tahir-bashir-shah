@@ -3,7 +3,7 @@
   <img src="https://github.com/tahirbashirshah12345/assets/banner.png" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tahir Shah</h1>
+<h1 align="center">Hi 👋, I'm Tahir Bashir Shah</h1>
 <h3 align="center">Frontend Developer | Web Problem Solver | PHP & JS Enthusiast</h3>
 
 <p align="center">
@@ -37,14 +37,12 @@
 | [🖥️ PHP Contact Form](https://github.com/tahirbashirshah12345) | PHP, MySQL | Secure form + DB + Email |
 
 ---
+- ## 🧠 Computer Science Knowledge
 
-## 🧠 Computer Science Knowledge
-
-- 📚 **DBMS** – Normalization, Transactions, SQL Joins
-- 🧠 **OS** – Process, Threads, Scheduling, Deadlock
-- 🌐 **CN** – IP, TCP/UDP, OSI Model, DNS, HTTP
-- 🔄 **DSA** – Arrays, Trees, LinkedList, Hashmaps, Graphs
-
+- 📚 **DBMS** – Strong understanding of database design and queries  
+- 🧠 **Operating Systems** – Well-versed in OS concepts and mechanisms  
+- 🌐 **Computer Networks** – Familiar with network layers, protocols, and communication  
+- 🔄 **Data Structures & Algorithms** – Proficient in solving problems using core DSA concepts  
 ---
 
 ## 📈 GitHub Stats
