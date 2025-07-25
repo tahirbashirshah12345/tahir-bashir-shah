@@ -1,55 +1,57 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/tahirbashirshah12345/tahirbashirshah12345/assets/your-banner.png" alt="Frontend Developer Banner" width="100%" />
+  <img src="https://github.com/tahirbashirshah12345/assets/banner.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tahir Shah</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | DSA Learner</h3>
+<h3 align="center">Frontend Developer | Web Problem Solver | PHP & JS Enthusiast</h3>
 
-<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-- 💻 Front-End Developer focused on **building sleek, responsive UI/UX**
-- ⚛️ Specialized in **React.js** with solid command of **JavaScript** & **ES6+**
-- 🧠 Strong foundation in **DSA** and core subjects like **DBMS, CN, OS**
-- 🔄 Familiar with **API integration**, **Git/GitHub**, and **modern design trends**
-- 📫 Reach me at: [tahirbashirshah12345@gmail.com](mailto:tahirbashirshah12345@gmail.com)
-
----
-
-## 🧰 My Tech Toolbox
-
-| Frontend        | Tools & Versioning   | CS Fundamentals     |
-|-----------------|----------------------|----------------------|
-| HTML, CSS, JS   | Git, GitHub, VS Code | DBMS, OS, CN         |
-| React.js        | Chrome DevTools      | DSA, OOP Concepts    |
-| Responsive Design | Postman, REST APIs | Computer Architecture |
+- 💡 Software Engineer with strong skills in **HTML, CSS, JS, PHP, MySQL**
+- 🛠️ Familiar with **WordPress development** and CMS customization
+- 🌐 Building both **front-end** and **back-end** systems for real-world use cases
+- 📘 Strong foundation in **Computer Fundamentals**: DBMS, OS, CN, DSA
+- 📂 Maintaining a clean GitHub with structured, readable codebases
 
 ---
 
-## 💼 Featured Projects
+## 💼 Projects That Show My Skills
 
-- 🔗 [Weather Forecast App](https://github.com/tahirbashirshah12345/weather-forecasting-app) – React-based live weather dashboard
-- 🔗 [YouTube Comment Analysis](https://github.com/tahirbashirshah12345) – NLP + Frontend UI for comment sentiment
-- 🔗 [Paste App](https://github.com/tahirbashirshah12345) – Minimal pastebin clone with styled frontend
+| Project | Tech Stack | Highlights |
+|--------|------------|------------|
+| [🌦️ Weather App](https://github.com/tahirbashirshah12345/weather-forecasting-app) | React, API | Realtime UI using external APIs |
+| [📝 Paste App](https://github.com/tahirbashirshah12345) | Node.js, MongoDB | Clone of Pastebin with auth |
+| [📊 YouTube Comment Analyzer](https://github.com/tahirbashirshah12345) | JS, NLP, Frontend | Sentiment analysis with visualization |
+| [🖥️ PHP Contact Form](https://github.com/tahirbashirshah12345) | PHP, MySQL | Secure form + DB + Email |
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Computer Science Knowledge
+
+- 📚 **DBMS** – Normalization, Transactions, SQL Joins
+- 🧠 **OS** – Process, Threads, Scheduling, Deadlock
+- 🌐 **CN** – IP, TCP/UDP, OSI Model, DNS, HTTP
+- 🔄 **DSA** – Arrays, Trees, LinkedList, Hashmaps, Graphs
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirbashirshah12345&show_icons=true&theme=react&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tahirbashirshah12345&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahirbashirshah12345&show_icons=true&theme=react" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahirbashirshah12345&theme=react" width="48%" />
 </p>
 
 ---
