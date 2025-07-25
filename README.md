@@ -11,7 +11,7 @@ A clean and responsive weather web application built using **HTML, CSS, and Java
 
 > **Tech Stack**: HTML, CSS, JavaScript, REST API  
 > **Features**: Real-time API call, clean UI, responsive design  
-> **Link**:(https://github.com/your-weather-app-link)
+> **Link**:tahirbashirshah12345/weather-forecasting-app
 
 ---
 
@@ -20,7 +20,7 @@ A machine learning-based project that analyzes the sentiment of YouTube video co
 
 > **Tech Stack**: Python, Pandas, scikit-learn, NLP, YouTube API  
 > **Features**: Data preprocessing, sentiment labeling, visualization  
-> **Link**: (https://github.com/your-youtube-analysis-link)
+> **Link**: tahirbashirshah12345/comment-anlaysis-in-youtube
 
 ---
 
@@ -29,8 +29,7 @@ A full-stack app where users can paste and share snippets of text. Focuses on se
 
 > **Tech Stack**: HTML, CSS, JavaScript, Firebase (or Node.js backend)  
 > **Features**: Text input, unique shareable URLs, persistence  
-> **Link**:
-> (https://github.com/your-paste-app-link)
+> **Link**:tahirbashirshah12345/paste-application
 
 ---
 
