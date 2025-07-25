@@ -1,51 +1,61 @@
-<h1 align="center">Hi 👋, I'm Tahir</h1>
-<h3 align="center">Frontend Developer | Backend Learner | Problem Solver</h3>
+# 👋 Hi, I’m Tahir Bashir Shah
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Crafting+clean+UIs+with+HTML+CSS+JS;React+Developer+with+a+Backend+Edge;Solving+Problems+One+Line+at+a+Time" alt="Typing SVG" />
-</p>
+I'm a passionate developer with a strong foundation in web development and problem-solving. I enjoy building clean, efficient, and user-centered applications using technologies like **JavaScript, HTML, CSS, PHP, and Python**, and I have experience working with REST APIs and machine learning concepts. I’m currently focused on growing my backend and full-stack development skills and am actively exploring open-source contributions.
 
 ---
 
-### 💻 About Me
+## 🚀 Projects
 
-- 🚀 I build **modern and responsive web apps** using **HTML, CSS, JavaScript, React**  
-- 🧠 I have strong fundamentals in **DBMS**, **Computer Networks**, and **Operating Systems**
-- 🌱 Currently exploring backend with **MongoDB**, **Node.js**, and **Express**
-- 🔍 Passionate about **problem-solving**, learning, and improving every day
-- 🎯 Preparing for technical interviews and contributing to real-world projects
+### 📍 Weather App
+A clean and responsive weather web application built using **HTML, CSS, and JavaScript** with data fetched from the **OpenWeatherMap API**. The UI updates based on user input and shows real-time temperature, humidity, wind speed, and weather conditions.
 
----
-
-### 🛠 Tech Stack
-
-| Frontend        | Backend          | Database   | CS Core                   |
-|-----------------|------------------|------------|---------------------------|
-| HTML5, CSS3     | Node.js (basic)  | MongoDB    | DSA, DBMS, CN, OS         |
-| JavaScript, ES6 | Java (Core)      | MySQL      | Git, GitHub               |
-| React.js        | Express (learning)|            | REST API (basics)         |
+> **Tech Stack**: HTML, CSS, JavaScript, REST API  
+> **Features**: Real-time API call, clean UI, responsive design  
+> **Link**:(https://github.com/your-weather-app-link)
 
 ---
 
-### 🔥 GitHub Stats
+### 📍 YouTube Comment Sentiment Analysis
+A machine learning-based project that analyzes the sentiment of YouTube video comments using Python. It scrapes comments, cleans text, and predicts positive/negative sentiments using NLP.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirshah&show_icons=true&theme=tokyonight" alt="Tahir's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahirshah&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website](https://your-portfolio.com)  
-- 📩 Email: your.email@example.com
+> **Tech Stack**: Python, Pandas, scikit-learn, NLP, YouTube API  
+> **Features**: Data preprocessing, sentiment labeling, visualization  
+> **Link**: (https://github.com/your-youtube-analysis-link)
 
 ---
 
-### 💡 Motto
+### 📍 Paste App (Pastebin Clone)
+A full-stack app where users can paste and share snippets of text. Focuses on security, URL-based access, and clean UI.
 
-> “Consistency beats intensity. Learn daily, improve endlessly.”
+> **Tech Stack**: HTML, CSS, JavaScript, Firebase (or Node.js backend)  
+> **Features**: Text input, unique shareable URLs, persistence  
+> **Link**:
+> (https://github.com/your-paste-app-link)
 
+---
+
+## 💡 Skills
+
+- **Languages**: PHP, JavaScript, HTML5, CSS3, Python, SQL  
+- **Frameworks**: WordPress (beginner), Bootstrap  
+- **Tools**: Git, GitHub, VS Code, Postman  
+- **Database**: MySQL  
+- **Soft Skills**: Problem-solving, time management, documentation, teamwork
+
+---
+
+## 📌 Why rtCamp?
+
+I am excited by rtCamp’s commitment to open source and high-quality engineering. I’m particularly interested in contributing to enterprise-scale WordPress solutions and plugin development. With a strong foundation in web technologies and a deep interest in building scalable and maintainable solutions, I’m eager to grow and contribute as a developer in your team.
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub**: [github.com/tahirbashirshah12345](https://github.com/tahirbashirshah12345)
+- **Email**: tahirbashirshah12345@gmail.com  
+- **Location**: India (open to remote work)
+
+---
+
+> ⚡ "Good Work. Good People." aligns with my values — delivering clean code, learning fast, and collaborating openly.
